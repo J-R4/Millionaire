@@ -40,3 +40,7 @@ $new-question = memberikan pertanyaan baru dari pemain
 
 1. Bot menambahkan usulan berupa pertanyaan dan 4 pilihan gandanya
 2. Bot menambahkan usulan ke dalam database
+
+$help = meminta bot untuk mengirimkan semua command yang ada
+
+1. Bot memberikan semua comand yang ada

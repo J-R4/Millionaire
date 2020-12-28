@@ -1,0 +1,28 @@
+{
+  "name": "Millionaire",
+  "version": "1.0.0",
+  "description": "who wants? ME !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-R4/Millionaire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-R4/Millionaire/issues"
+  },
+  "homepage": "https://github.com/J-R4/Millionaire#readme",
+  "dependencies": {
+    "@types/node": "^14.14.16",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}

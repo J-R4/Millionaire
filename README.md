@@ -5,7 +5,7 @@ who wants? ME !
 $start = Bot memulai game
 
 1. Bot kasih pertanyaan
-2. Pemain menjawab dengan $a 1-
+2. Pemain menjawab dengan $a 1-4
 3. Bot menjawab apakah itu betul atau salah
 4. Bot kasih tau uang yang didapat pemain
 5. Bot kasih tau jawaban benar

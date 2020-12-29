@@ -10,6 +10,10 @@ $start = Bot memulai game
 4. Bot kasih tau uang yang didapat pemain
 5. Bot kasih tau jawaban benar
 
+$a (1-4) = pemain menjawab nomor 1 - 4
+
+1. pemain mengetik nomor 1 - 4 dan memberikan
+
 $status = memberi status
 
 1. Bot Kasih tau status pemain sudah di pertanyaan ke berapa
